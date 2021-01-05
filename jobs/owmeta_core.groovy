@@ -1,4 +1,4 @@
-multibranchPipelineJob('owmeta-core') {
+multibranchPipelineJob('openworm jobs/owmeta-core') {
     branchSources {
         git {
             id('x3nHl4pZOAHhmiHTzHerCjbuq7qPJdPz') // IMPORTANT: use a constant and unique identifier
